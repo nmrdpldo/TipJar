@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="orange_custom">#F27A0A</color>
+    <color name="dark_orange_custom">#D26E11</color>
+    <color name="checkbox_lightgray">#E5E5E5</color>
+    <color name="transparent">#00FFFFFF</color>
+</resources>

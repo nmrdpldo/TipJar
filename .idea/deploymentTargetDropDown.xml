@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="ExampleInstrumentedTest">
+        <State />
+      </entry>
+      <entry key="RepositoryTests">
+        <State />
+      </entry>
+      <entry key="ViewModelTests">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="test__get_empty_payment()">
+        <State />
+      </entry>
+      <entry key="test_search_payment_timestamp()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
